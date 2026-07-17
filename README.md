@@ -87,13 +87,9 @@ Cognizant-DN5.0
 
 ## 🎯 Objective
 
-This repository is maintained to document my learning journey throughout the **Cognizant Digital Nurture 5.0 Program**. It will be updated regularly as I complete new modules, hands-on exercises, and projects.
+This repository is maintained to document my learning journey throughout the **Cognizant Digital Nurture 5.0 Program**.
 
-## 📌 Status
 
-- ✅ UpSkilling – In Progress
-- ✅ DeepSkilling – In Progress
-- 🔄 Repository updated regularly
 
 ---
 **Author:** Vinay Gopalam
