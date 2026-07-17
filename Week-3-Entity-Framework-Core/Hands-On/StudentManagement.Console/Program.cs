@@ -40,7 +40,7 @@ namespace StudentManagement.ConsoleApp
             // Insert default data for demo
             try
             {
-                await service.AddStudentAsync(new StudentDto { Name = "Rafi Sk", Email = "rafi@example.com", Age = 22, Course = "Computer Science" });
+                await service.AddStudentAsync(new StudentDto { Name = "Gopalam Vinay", Email = "Vinaygopalam@example.com", Age = 22, Course = "Computer Science" });
                 Console.WriteLine("Demo Student Added Successfully.");
             }
             catch (Exception) { /* Already exists or demo setup */ }

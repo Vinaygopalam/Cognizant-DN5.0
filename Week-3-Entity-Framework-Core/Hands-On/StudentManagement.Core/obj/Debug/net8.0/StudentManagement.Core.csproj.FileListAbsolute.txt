@@ -1,0 +1,12 @@
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\bin\Debug\net8.0\StudentManagement.Core.deps.json
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\bin\Debug\net8.0\StudentManagement.Core.dll
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\bin\Debug\net8.0\StudentManagement.Core.pdb
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.AssemblyInfo.cs
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.sourcelink.json
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.dll
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\obj\Debug\net8.0\refint\StudentManagement.Core.dll
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.pdb
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-3-Entity-Framework-Core\Hands-On\StudentManagement.Core\obj\Debug\net8.0\ref\StudentManagement.Core.dll
