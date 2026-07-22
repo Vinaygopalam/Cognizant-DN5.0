@@ -1,0 +1,9 @@
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-7-WebAPI\Exercise-5-JWTAuthentication\JwtAuthenticationAPI\obj\Debug\net10.0\JwtAuthenticationAPI.csproj.AssemblyReference.cache
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-7-WebAPI\Exercise-5-JWTAuthentication\JwtAuthenticationAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-7-WebAPI\Exercise-5-JWTAuthentication\JwtAuthenticationAPI\obj\Debug\net10.0\JwtAuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-7-WebAPI\Exercise-5-JWTAuthentication\JwtAuthenticationAPI\obj\Debug\net10.0\JwtAuthenticationAPI.AssemblyInfoInputs.cache
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-7-WebAPI\Exercise-5-JWTAuthentication\JwtAuthenticationAPI\obj\Debug\net10.0\JwtAuthenticationAPI.AssemblyInfo.cs
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-7-WebAPI\Exercise-5-JWTAuthentication\JwtAuthenticationAPI\obj\Debug\net10.0\JwtAuthenticationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-7-WebAPI\Exercise-5-JWTAuthentication\JwtAuthenticationAPI\obj\Debug\net10.0\JwtAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-7-WebAPI\Exercise-5-JWTAuthentication\JwtAuthenticationAPI\obj\Debug\net10.0\JwtAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gopalam Vinay\OneDrive\Desktop\Cognizant-DN5.0\Week-7-WebAPI\Exercise-5-JWTAuthentication\JwtAuthenticationAPI\obj\Debug\net10.0\JwtAuthenticationAPI.sourcelink.json
