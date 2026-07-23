@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task-2-Standalone-Moq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf7909b5412a165e21ea86b6182014d3f3197f09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b3ac1fae4b6aeaa884cc9f2d6ea880492899c19")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task-2-Standalone-Moq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task-2-Standalone-Moq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

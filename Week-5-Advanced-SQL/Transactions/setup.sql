@@ -1,5 +1,0 @@
-BEGIN TRANSACTION;
-
-UPDATE Employees SET Salary = Salary + 100 WHERE Id = 1;
-
-COMMIT TRANSACTION;
