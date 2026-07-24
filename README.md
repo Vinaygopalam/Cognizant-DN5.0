@@ -1,95 +1,112 @@
 # Cognizant Digital Nurture 5.0
 
-Welcome to my **Cognizant Digital Nurture 5.0** repository. This repository contains the hands-on exercises, assignments, projects, and learning materials completed as part of the Cognizant Digital Nurture Program.
+Welcome to my Cognizant Digital Nurture 5.0 (DN5.0) repository.
 
-## 📂 Repository Structure
+This repository contains all the hands-on exercises, assignments, projects, and practice work completed as part of the Cognizant Digital Nurture 5.0 training program.
+
+---
+
+## Repository Structure
 
 ```
 Cognizant-DN5.0
 │
 ├── UpSkilling
-│   ├── 01-CSharp-Basics
-│   ├── 02-Object-Oriented-Programming
-│   ├── 03-Collections
-│   ├── 04-SQL-Basics
-│   ├── 05-Git
-│   ├── 06-HTML
-│   ├── 07-CSS
-│   ├── 08-JavaScript
-│   ├── 09-Bootstrap
-│   ├── 10-Mini-Projects
-│   └── Notes
-│
-└── DeepSkilling
-    ├── Week-1
-    ├── Week-2
-    ├── Week-3
-    ├── Week-4
-    ├── Week-5
-    ├── Week-6
-    └── Week-7
+├── Week-1
+├── Week-2
+├── Week-3-Entity-Framework-Core-Angular
+├── Week-4-NUnit-and-Moq-Git
+├── Week-5
+├── Week-6-ReactJS
+├── Week-7-WebAPI
+└── README.md
 ```
 
-## 📚 UpSkilling Modules
+---
 
-- C# Programming Fundamentals
-- Object-Oriented Programming
-- Collections
-- SQL Basics
-- Git & GitHub
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Mini Projects
-- Notes & Learning Resources
+## Technologies Covered
 
-## 🚀 DeepSkilling Modules
-
-### Week 1
-- Design Patterns & Principles
-- Data Structures & Algorithms
-- Advanced SQL
+- C#
+- .NET
+- SQL Server
+- Entity Framework Core
 - NUnit
 - Moq
-
-### Week 2
-- Entity Framework Core 8
-
-### Week 3
-- ASP.NET Core Web API
-
-### Week 4
-- Microservices
-
-### Week 5
-- React
-
-### Week 6
-- Advanced Hands-on Exercises
-
-### Week 7
-- Final Assessment & Projects
-
-## 💻 Technologies Used
-
-- Java
-- C#
-- .NET 8
-- Entity Framework Core
-- ASP.NET Core Web API
-- SQL
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
 - Git & GitHub
-
-## 🎯 Objective
-
-This repository is maintained to document my learning journey throughout the **Cognizant Digital Nurture 5.0 Program**.
-
-
+- ReactJS
+- Angular
+- ASP.NET Web API
 
 ---
-**Author:** Vinay Gopalam
+
+## Topics Practiced
+
+### SQL Server
+- Stored Procedures
+- Functions
+- Triggers
+- Cursors
+- Exception Handling
+- Advanced SQL
+- Indexes
+
+### Entity Framework Core
+- DbContext
+- CRUD Operations
+- LINQ Queries
+- Console Applications
+
+### Git
+- Git Configuration
+- Git Ignore
+- Branching & Merging
+- Merge Conflict Resolution
+- Remote Repository Operations
+
+### ReactJS
+- Components
+- Props & State
+- Forms
+- Routing
+- Conditional Rendering
+- Validation
+
+### Angular
+- Components
+- Services
+- Routing
+- Data Binding
+- Dependency Injection
+
+### ASP.NET Web API
+- REST APIs
+- CRUD Operations
+- Controllers
+- Models
+
+---
+
+## Purpose
+
+This repository is maintained to:
+
+- Practice concepts learned during Cognizant DN5.0
+- Track weekly progress
+- Maintain hands-on exercises
+- Improve software development skills
+
+---
+
+## Author
+
+**Gopalam Vinay**
+
+B.Tech – Computer Science & Engineering
+
+Vignan University
+
+GitHub: https://github.com/Vinaygopalam
+
+---
+
+Thank you for visiting this repository!
