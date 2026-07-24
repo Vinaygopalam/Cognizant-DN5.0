@@ -1,0 +1,5 @@
+.main-content {
+  flex: 1;
+  min-height: calc(100vh - 140px);
+  background-color: #f8f9fa;
+}
